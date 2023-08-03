@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\FastFood\bin\Debug\FastFood.exe.config
+C:\Users\HP\source\repos\FastFood\bin\Debug\FastFood.exe
+C:\Users\HP\source\repos\FastFood\bin\Debug\FastFood.pdb
+C:\Users\HP\source\repos\FastFood\obj\Debug\FastFood.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\FastFood\obj\Debug\FastFood.Form1.resources
+C:\Users\HP\source\repos\FastFood\obj\Debug\FastFood.Properties.Resources.resources
+C:\Users\HP\source\repos\FastFood\obj\Debug\FastFood.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\FastFood\obj\Debug\FastFood.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\FastFood\obj\Debug\FastFood.exe
+C:\Users\HP\source\repos\FastFood\obj\Debug\FastFood.pdb
